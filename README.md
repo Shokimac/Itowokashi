@@ -5,8 +5,10 @@
 <img width="1439" alt="top_page" src="https://user-images.githubusercontent.com/64714255/94778642-9c140180-0400-11eb-80f5-205af0087425.png">
 ![proverb](https://user-images.githubusercontent.com/64714255/94784199-c8cc1700-0408-11eb-94be-b33c50260525.png)
 
-# URL https://itowokashi.club
- Googleアカウントをお持ちでしたら、Google認証でログインできます。
+# URL
+https://itowokashi.club
+※ 現在はアクセスできません
+~~Googleアカウントをお持ちでしたら、Google認証でログインできます。~~
 
 # 背景
 名前を 「いとをかし」 とした理由は、現代の技術であるWebサービスと、古文で使われていた日本人なら誰もが知る言葉をあえて掛け合わせ若い世代のユーザーから興味を引く狙いと遊び心から付けました。 <br>
